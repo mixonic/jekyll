@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = '1.3.5'
 
   s.name              = 'spinto-jekyll'
-  s.version           = '0.11.2.3'
-  s.date              = '2012-03-27'
+  s.version           = '0.11.2.4'
+  s.date              = '2012-05-01'
   s.rubyforge_project = 'spinto-jekyll'
 
   s.summary     = "A simple, blog aware, static site generator."
