@@ -207,7 +207,7 @@ module Jekyll
       
       if self.preview
         self.unpublished_posts.sort.each do |post|
-          post.render(self.layouts, site_payload)
+          post.render(self.layouts, payload)
         end
       end
 
